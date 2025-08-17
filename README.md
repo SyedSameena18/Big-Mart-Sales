@@ -1,7 +1,36 @@
-# 🛒 Big Mart Sales Prediction
+## 🛒 Big Mart Sales Prediction
 
 A Machine Learning project to predict the sales of Big Mart products based on various features like item type, weight, visibility, outlet size, etc.  
-This project helps understand **data preprocessing, regression models, and evaluation metrics**.
+This project helps understand **data preprocessing, regression models, and evaluation metrics**  using machine learning techniques. The dataset contains information about product types, store characteristics, pricing, and more.
+
+## 🪜I followed a step-by-step approach:
+
+📥 Step 1: Loaded and explored the training and testing data
+
+📊 Step 2: Performed EDA and handled missing values
+
+🛠️ Step 3: Applied feature engineering and encoding
+
+🧠 Step 4: Trained a machine learning model (XGBoost Regressor)
+
+📈 Step 5: Evaluated the model and predicted test set values
+
+## 🎯 Objective and Goal
+To understand how machine learning models can be used in retail data analytics and improve my practical knowledge of predictive modeling and the goal of this project is to learn how to build and evaluate regression models using real-world retail data.
+
+## 🔧 Tech Stack 
+
+->Python (Pandas, NumPy, Matplotlib, Seaborn)
+->Scikit-learn
+->XGBoost
+->Jupyter Notebook
+
+## ✅ What You’ll Learn
+1. To load and explore dataset
+2. Techniques for cleaning data
+3. To train and tune XGBoost Regressor using scikit-learn framework
+4. To evaluate model accuracy
+5. Deploying a trained model
 
 ## 📌 Project Workflow
 1. Import Libraries 
